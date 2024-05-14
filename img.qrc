@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>bg.jpg</file>
+        <file>tampilan.qrc</file>
+        <file>view.qrc</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>login.qrc</file>
+        <file>loginn.qrc</file>
+    </qresource>
+</RCC>

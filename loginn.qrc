@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/loginn">
+        <file>login1.jpg</file>
+        <file>vvv.jpg</file>
+    </qresource>
+</RCC>

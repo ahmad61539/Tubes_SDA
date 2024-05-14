@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/tampilan">
+        <file>Company Profile.jpg</file>
+    </qresource>
+</RCC>
